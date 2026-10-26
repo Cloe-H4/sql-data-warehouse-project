@@ -1,9 +1,9 @@
 # Data Warehouse Project with Postgresql
 
 Welcome to the **Data Warehouse Project with Postgresql** repository!
-This project was developed as part of a guided learning exercise inspired by a YouTube tutorial from DataWithBaraa. While the original tutorial used SQL Server, this implementation was built using PostgreSQL, requiring adaptation of SQL syntax, database setup, and workflow processes across platforms.
+This project was developed as part of a guided learning exercise inspired by a YouTube tutorial from DataWithBaraa. While the original tutorial used SQL Server, this implementation was built using PostgreSQL. It required adaptation of SQL syntax, database setup, and workflow processes.
 
-The project demonstrates key data warehousing concepts including data architecture, data modeling, ETL workflows, and analytical querying.
+The project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights using industry best practices.
 
 ---
 
@@ -34,13 +34,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 📖Key Learnings
-- Designing a basic data warehouse schema
-- Writing analytical SQL queries
-- Adapting SQL Server workflows to PostgreSQL
-- Understanding ETL and data modeling concepts
+## 🛡️License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ---
 
-## 🛡️License
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+## 🛡️About Me
+Hello! I'm **Nchedochukwu Bede**, a Mechatronics Engineer with a strong interest in Data, AI, and Robotics.
